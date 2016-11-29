@@ -1,0 +1,26 @@
+{
+  "name": "fast-image-server",
+  "version": "1.0.0",
+  "description": "A lightning fast image processing server with on-the-fly resizing and automatic webp support",
+  "keywords": [
+    "image resize",
+    "webp",
+    "fast",
+    "server"
+  ],
+  "homepage": "https://github.com/MacroMan/NodeImageServer",
+  "bugs": "https://github.com/MacroMan/NodeImageServer/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MacroMan/NodeImageServer.git"
+  },
+  "license": "BSD-2-Clause",
+  "author": {
+    "name": "David Wakelin",
+    "url": "https://www.davidwakelin.co.uk/"
+  },
+  "dependencies": {
+    "node-gyp": "^3.4.0",
+    "sharp": "^0.16.2"
+  }
+}
